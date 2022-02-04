@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(167, 110, 110);
+}
+
+.accordion-item {
+  background-color: rgb(207, 143, 143);
+}
+
+.accordion-button collapsed {
+  background-color:rgb(167, 110, 110); 
+}
